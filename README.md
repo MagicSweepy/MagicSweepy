@@ -1,7 +1,7 @@
 ## 🔧 Usage Languages
 
 > [!NOTE]\
-> The left-half (Repository Usage Languages) only includes personal repositories, not counted as part of the organization's repositories.
+> The left-half only includes personal repositories, not counted as part of the organization's repositories.
 
 | Repository Usage Languages              | Personal Prefer Usage Languages |
 |-----------------------------------------|---------------------------------|
