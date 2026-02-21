@@ -9,7 +9,7 @@
 
 
 <!-- External Links -->
-[TopLangs]: https://github-readme-stats.vercel.app/api/top-langs/?username=MagicSweepy&layout=donut&theme=tokyonight
+[TopLangs]: https://github-stats-extended.vercel.app/api/top-langs/?username=MagicSweepy&layout=donut&theme=tokyonight
 [GhReadmeStats]: https://github.com/MagicSweepy/github-readme-stats
 
 [SkillIcons]: https://skillicons.dev
