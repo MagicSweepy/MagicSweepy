@@ -1,7 +1,7 @@
 ## 🌱 About Me
 
 > [!IMPORTANT]\
-> My avatar is from a [comic artwork][AvatarSource] created by [**lazy_guineapig**][AvatarSource], and I have obtained [permission](/permission_avatar.png) from the author.
+> My avatar is from a [comic artwork][AvatarSource] created by [**lazy_guineapig**][AvatarAuthor], and I have obtained [permission](/permission_avatar.png) from the author.
 
 Hello, I'm **Magic_Sweepy** (you can call me *Sweep* or *Sweepy*). I'm engaged in **Minecraft Modding**, as well as learning **Functional Programming** for interest. I'm a member of [**MorphismMC**][MorphismMC] team.
 
