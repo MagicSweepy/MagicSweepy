@@ -1,9 +1,9 @@
 ## 🌱 About Me
 
 > [!IMPORTANT]\
-> My avatar is from a [comic artwork][AvatarSource] created by [**lazy_guineapig**][AvatarSource], and I have obtained [permission](/permission_avatar.png) from the author through communication (Click "*permission*" text to view the permission).
+> My avatar is from a [comic artwork][AvatarSource] created by [**lazy_guineapig**][AvatarSource], and I have obtained [permission](/permission_avatar.png) from the author.
 
-Hello, I'm *Magic_Sweepy* (you can call me *Sweep* or *Sweepy*). I'm engaged in *Minecraft Modding*, as well as learning *Functional Programming* for interest. 
+Hello, I'm **Magic_Sweepy** (you can call me *Sweep* or *Sweepy*). I'm engaged in **Minecraft Modding**, as well as learning **Functional Programming** for interest. I'm a member of [**MorphismMC**][MorphismMC] team.
 
 ## 🔧 Usage Languages
 
@@ -18,6 +18,8 @@ Hello, I'm *Magic_Sweepy* (you can call me *Sweep* or *Sweepy*). I'm engaged in 
 <!-- External Links -->
 [AvatarAuthor]: https://www.pixiv.net/users/101985156
 [AvatarSource]: https://www.pixiv.net/artworks/129558529
+
+[MorphismMC]: https://github.com/MorphismMC
 
 [TopLangs]: https://github-stats-extended.vercel.app/api/top-langs/?username=MagicSweepy&layout=donut&theme=tokyonight
 [GhReadmeStats]: https://github.com/MagicSweepy/github-readme-stats
