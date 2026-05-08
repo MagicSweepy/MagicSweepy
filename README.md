@@ -3,7 +3,7 @@
 > [!IMPORTANT]\
 > My avatar is from a [comic artwork][AvatarSource] created by [**lazy_guineapig**][AvatarAuthor], and I have obtained [permission](/permission_avatar.png) from the author.
 
-Hello, I'm **Magic_Sweepy** (you can call me *Sweep* or *Sweepy*). I'm engaged in **Minecraft Modding**, as well as learning **Functional Programming** for interest. I'm a member of [**MorphismMC**][MorphismMC] team.
+Hello, I'm **Magic_Sweepy** (you can call me *Sweep* or *Sweepy*). I'm engaged in **Minecraft Modding**, as well as learning **Functional Programming** for interest. I'm co-founder of [**MorphismMC**][MorphismMC] team.
 
 ## 🔧 Usage Languages
 
@@ -13,7 +13,6 @@ Hello, I'm **Magic_Sweepy** (you can call me *Sweep* or *Sweepy*). I'm engaged i
 | Repository Usage Languages              | Personal Prefer Usage Languages |
 |-----------------------------------------|---------------------------------|
 | [![Top Langs][TopLangs]][GhReadmeStats] | [![Java Icon][JavaIcon]][SkillIcons] Java (Java 8, 17, 21 and 24) <br> [![Kotlin Icon][KotlinIcon]][SkillIcons] Kotlin and Kotlin DSL buildscripts <br> [![Scala Icon][ScalaIcon]][SkillIcons] Scala 2 and 3 <br> [![Gradle Icon][GradleIcon]][SkillIcons] Groovy for Gradle buildscripts <br> [![LaTeX Icon][LaTeXIcon]][SkillIcons] LaTeX (XeLaTeX) |
-
 
 <!-- External Links -->
 [AvatarAuthor]: https://www.pixiv.net/users/101985156
