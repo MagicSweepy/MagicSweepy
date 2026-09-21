@@ -1,24 +1,27 @@
 ## 🌱 About Me
 
-> [!IMPORTANT]\
-> My old avatar is from a [comic artwork][AvatarSource] created by [**lazy_guineapig**][AvatarAuthor], and I have obtained [permission](/permission_avatar.png) from the author.
-
-Hello, I'm **Magic_Sweepy** (you can call me *Sweep* or *Sweepy*). I'm engaged in **Minecraft Modding**, as well as learning **Functional Programming** for interest. I'm co-founder of [**MorphismMC**][MorphismMC] team.
+Hello, I'm **Magic_Sweepy** (you can call me *Sweep* or *Sweepy*). I work on **Minecraft Modding** and learn **Functional Programming** out of interest. I'm a co-founder of [**MorphismMC**][MorphismMC] team.
 
 ## 🔧 Usage Languages
 
 > [!NOTE]\
-> The left-half only includes personal repositories, not counted as part of the organization's repositories.
+> The left chart only includes my personal repositories, not organization repositories.
 
-| Repository Usage Languages              | Personal Prefer Usage Languages |
+Generally, I prefer to write programs in **Kotlin** and **Scala 3**. Beyond that, I'd consider **Koka** and **Java** (21+ only).
+
+| Repository Usage Languages              | Personal Prefer Usage Language  |
 |-----------------------------------------|---------------------------------|
 | [![Top Langs][TopLangs]][GhReadmeStats] | [![Java Icon][JavaIcon]][SkillIcons] Java (Java 8, 17, 21 and 25) <br> [![Kotlin Icon][KotlinIcon]][SkillIcons] Kotlin and Kotlin DSL buildscripts <br> [![Scala Icon][ScalaIcon]][SkillIcons] Scala 3 <br> [![Gradle Icon][GradleIcon]][SkillIcons] Groovy for Gradle buildscripts <br> [![LaTeX Icon][LaTeXIcon]][SkillIcons] LaTeX (XeLaTeX) |
 
-<!-- External Links -->
-[AvatarAuthor]: https://www.pixiv.net/users/101985156
-[AvatarSource]: https://www.pixiv.net/artworks/129558529
+## 📫 Personal Projects
 
+- [**GregTech Lite**][GregTechLite]: Minecraft 1.12.2 Modpack centered around GregTech CEu mod, with a lot of modification.
+- [**Kato**][Kato]: Functional Programming Library with Higher Kinded Type format for Kotlin.
+
+<!-- External Links -->
 [MorphismMC]: https://github.com/MorphismMC
+[GregTechLite]: https://github.com/GregTechLite
+[Kato]: https://github.com/MagicSweepy/Kato
 
 [TopLangs]: https://github-stats-extended.vercel.app/api/top-langs/?username=MagicSweepy&layout=donut&theme=tokyonight
 [GhReadmeStats]: https://github.com/MagicSweepy/github-readme-stats
