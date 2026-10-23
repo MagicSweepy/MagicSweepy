@@ -19,6 +19,7 @@ Generally, I prefer to write programs in **Kotlin** and **Scala 3**. Beyond that
 ## 📫 Personal Projects
 
 - [**GregTech Lite**][GregTechLite]: Minecraft 1.12.2 Modpack centered around GregTech CEu mod, with a lot of modification.
+- [**Create: Freewheeling**][CreateFreewheeling]: Minecraft 1.21.1 Modpack centered around Create mod and its Addon mod, with a lot of my freewheeling ideas (also have my friend's!).
 - [**Kato**][Kato]: Functional Programming Library with Higher Kinded Type format for Kotlin.
 
 <!-- External Links -->
@@ -26,6 +27,7 @@ Generally, I prefer to write programs in **Kotlin** and **Scala 3**. Beyond that
 [AvatarSource]: https://www.pixiv.net/artworks/128732488
 [MorphismMC]: https://github.com/MorphismMC
 [GregTechLite]: https://github.com/GregTechLite
+[CreateFreewheeling]: https://github.com/MagicSweepy/Create-Freewheeling
 [Kato]: https://github.com/MagicSweepy/Kato
 
 [TopLangs]: https://github-stats-extended.vercel.app/api/top-langs/?username=MagicSweepy&layout=donut&theme=tokyonight
