@@ -1,5 +1,8 @@
 ## 🌱 About Me
 
+> [!IMPORTANT]\
+> My avatar is from a [comic artwork][AvatarSource] created by [**lazy_guineapig**][AvatarAuthor], and I have obtained [permission](/permission_avatar.png) from the author.
+
 Hello, I'm **Magic_Sweepy** (you can call me *Sweep* or *Sweepy*). I work on **Minecraft Modding** and learn **Functional Programming** out of interest. I'm a co-founder of [**MorphismMC**][MorphismMC] team.
 
 ## 🔧 Usage Languages
@@ -19,6 +22,8 @@ Generally, I prefer to write programs in **Kotlin** and **Scala 3**. Beyond that
 - [**Kato**][Kato]: Functional Programming Library with Higher Kinded Type format for Kotlin.
 
 <!-- External Links -->
+[AvatarAuthor]: https://www.pixiv.net/users/101985156
+[AvatarSource]: https://www.pixiv.net/artworks/128732488
 [MorphismMC]: https://github.com/MorphismMC
 [GregTechLite]: https://github.com/GregTechLite
 [Kato]: https://github.com/MagicSweepy/Kato
